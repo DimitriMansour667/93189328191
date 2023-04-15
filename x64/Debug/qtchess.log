@@ -1,0 +1,3 @@
+﻿  moc Board.h
+   C:\Users\Dimitri Mansour\Downloads\qtchess\Board.h(11:1): error: Class contains Q_OBJECT macro but does not inherit from QObject
+C:\Users\Dimitri Mansour\AppData\Local\QtMsBuild\qt_globals.targets(293,5): error MSB4181: The "QtRunWork" task returned false but did not log an error.
